@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML 5 / CSS 3 / JAVASCRIPT / PHP**
 
-- My portfolio : https://loickleborgne.fr/
+- 🌐 My portfolio : https://loickleborgne.fr/
 
 - 📫 How to reach me **loickleborgne47@hotmail.com**
 
